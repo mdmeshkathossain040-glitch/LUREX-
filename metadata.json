@@ -1,0 +1,8 @@
+{
+  "name": "Remix LUREX",
+  "description": "LUREX - Modern Bangladesh Multi-Vendor Marketplace (BUY • SELL • GROW)",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
